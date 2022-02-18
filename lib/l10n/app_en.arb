@@ -1,0 +1,16 @@
+{
+    "searchLabel": "Enter to search",
+    "weatherNearFuture":"Weather for the near future:",
+    "internetError": "Check your internet connection",
+    "homeTitle": "Weather",
+    "weatherDaysFuture":"Weather for the days future:",
+    "cityTitle": "City Selection",
+    "getWeather": "Get Weather",
+    "searchCityDone": "City found successfully",
+    "searchCityError": "City not found. Check if the input is correct",
+    "saveDefaultCity": "Select a city by default",
+    "yes": "Yes",
+    "no": "No",
+    "alertSetDefaultCity": "Do you want to change the current year to another one for the default?",
+    "saveCity": "Save City"
+}
